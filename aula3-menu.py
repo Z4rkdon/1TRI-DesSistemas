@@ -19,3 +19,11 @@ while True:
         break
     else:
         print("Opção inválida, digite um número de 1 a 4")
+
+import random
+numero = random.randint(0,10)
+errou = True
+tentativas_max = 3
+
+tentativas = 1
+while(tentativas <=3)
